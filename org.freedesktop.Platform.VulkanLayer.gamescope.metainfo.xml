@@ -9,6 +9,9 @@
   <project_license>BSD-2-Clause</project_license>
   <metadata_license>CC0-1.0</metadata_license>
   <releases>
+    <release version="3.16.31-custom" date="2026-10-18">
+      <description/>
+    </release>
     <release version="3.16.31" date="2026-09-28">
       <description></description>
     </release>
